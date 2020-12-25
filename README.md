@@ -1,6 +1,10 @@
 # Simple Node
 ## Overview
-This is a very simple, bare-bones NodeJS project created for you to use with Docker.
+This is a very simple, bare-bones NodeJS project for use with Docker.
+
+It demonstrates use of Travis to pull from GitHub and creation of a docker container and pushing that docker container to a DockerHub registry.
+
+
 
 ## Local Setup
 * Install dependencies: `npm install`
